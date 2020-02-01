@@ -4,7 +4,7 @@ url: "https://barrypittman.github.io" #the base hostname and protocol for my sit
 baseurl: "/"
 email: pittman.barry@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Barry Pittman's little space to exhibit code excerpts, projects, etc.
+  Barry Pittman's little space to exhibit code excerpts, projects, etc., and profess continued love for his wife.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 1
